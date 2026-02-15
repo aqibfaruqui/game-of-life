@@ -10,11 +10,11 @@ The module computes Conway’s Game of Life directly in RTL and writes into a fr
 
 ## Demonstration
 
-A demo of ```examples/line.s``` with colour too!
+A demo of ```examples/line.s``` on a 640 x 480 monitor with colour too!
 
 https://github.com/user-attachments/assets/5f663621-f2a8-47b2-b436-b69c17e4ec3e
 
-<img src="https://github.com/user-attachments/assets/9eda42de-6548-4259-bfa5-faf744f877d0" width="100%">
+<img src="https://github.com/user-attachments/assets/9eda42de-6548-4259-bfa5-faf744f877d0" width="90%">
 
 ## Some Cool Optimisations
 
